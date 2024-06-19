@@ -42,5 +42,5 @@
 Now you can access your Notes CRUD application at `http://localhost:5000`.
 
 Demo:
-<img width="940" alt="image" src="https://github.com/Adxtxs/Notes-App/assets/138885162/dba9b719-c69e-482d-8c74-471afc91761e">
-<img width="944" alt="image" src="https://github.com/Adxtxs/Notes-App/assets/138885162/ff14287c-8936-4ccb-8aca-c4c55336e1be">
+<img width="944" alt="image" src="https://github.com/Adxtxs/Notes-App/assets/138885162/1d18dba3-6eb5-4975-8f3a-22b6f402d62a">
+<img width="946" alt="image" src="https://github.com/Adxtxs/Notes-App/assets/138885162/fbac05b0-3a5a-45b4-8bf7-250ee67b8bef">
